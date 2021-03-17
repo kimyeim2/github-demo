@@ -4,3 +4,7 @@ test file
      
      브랜치에서 고쳐봅시다
             두번
+
+
+     나는 kimyeim2 입니다. 나는 외부 contributor입니다
+     안뇽~~~
